@@ -1,6 +1,8 @@
-streamlit
+fastapi
+uvicorn
+python-multipart
 pandas
 scikit-learn
-pdfplumber
-nltk
 joblib
+nltk
+pdfplumber
