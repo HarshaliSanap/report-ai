@@ -1,0 +1,46 @@
+report_text,specialty
+"patient complains of chest pain, high blood pressure, irregular heartbeat",Cardiologist
+"shortness of breath, chest tightness, palpitations during exertion",Cardiologist
+"history of hypertension, swelling in legs, fatigue, rapid heart rate",Cardiologist
+"chest pain radiating to left arm, sweating, nausea",Cardiologist
+"high cholesterol levels, occasional chest discomfort, family history of heart disease",Cardiologist
+"skin rash, itching, red patches on arms and legs",Dermatologist
+"acne breakout on face, oily skin, blackheads",Dermatologist
+"dry scaly patches on skin, severe itching, psoriasis like symptoms",Dermatologist
+"hair fall, dandruff, scalp irritation",Dermatologist
+"mole changing color and size, skin growth concern",Dermatologist
+"frequent headaches, blurred vision, dizziness",Neurologist
+"numbness in hands and feet, tingling sensation",Neurologist
+"memory loss, confusion, difficulty concentrating",Neurologist
+"seizures, loss of consciousness, muscle twitching",Neurologist
+"severe migraine, sensitivity to light, nausea",Neurologist
+"joint pain, swelling in knees, difficulty walking",Orthopedist
+"lower back pain, stiffness, difficulty bending",Orthopedist
+"fracture in arm after fall, severe pain and swelling",Orthopedist
+"shoulder pain, limited range of motion, sports injury",Orthopedist
+"chronic neck pain, muscle stiffness, posture related",Orthopedist
+"high blood sugar levels, frequent urination, fatigue",Endocrinologist
+"unexplained weight gain, thyroid swelling, tiredness",Endocrinologist
+"excessive thirst, weight loss, blurred vision, diabetes symptoms",Endocrinologist
+"irregular periods, hormonal imbalance, weight fluctuation",Endocrinologist
+"low energy levels, cold intolerance, hair thinning, thyroid issue",Endocrinologist
+"abdominal pain, bloating, irregular bowel movements",Gastroenterologist
+"acid reflux, heartburn, difficulty swallowing",Gastroenterologist
+"nausea, vomiting, loss of appetite, stomach pain",Gastroenterologist
+"blood in stool, chronic constipation, abdominal cramps",Gastroenterologist
+"liver function abnormal, jaundice, fatigue",Gastroenterologist
+"mild fever, body ache, common cold symptoms",General Physician
+"general weakness, fatigue, no specific symptoms",General Physician
+"routine checkup, no major complaints, slight cough",General Physician
+"seasonal flu, sore throat, mild fever",General Physician
+"general fatigue, low immunity, frequent minor illnesses",General Physician
+"persistent cough, difficulty breathing, wheezing",Pulmonologist
+"chest congestion, shortness of breath, asthma symptoms",Pulmonologist
+"chronic cough, history of smoking, breathlessness",Pulmonologist
+"lung infection, fever, productive cough with phlegm",Pulmonologist
+"sleep apnea symptoms, snoring, daytime fatigue",Pulmonologist
+"ear pain, hearing difficulty, ringing in ears",ENT Specialist
+"sore throat, difficulty swallowing, hoarseness",ENT Specialist
+"nasal congestion, sinus pain, frequent sneezing",ENT Specialist
+"recurrent ear infections, fluid discharge from ear",ENT Specialist
+"loss of smell, nasal blockage, post nasal drip",ENT Specialist
