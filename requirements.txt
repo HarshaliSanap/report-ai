@@ -1,8 +1,6 @@
+streamlit
 pandas
 scikit-learn
 pdfplumber
-pytesseract
-pdf2image
 nltk
 joblib
-streamlit
